@@ -1,0 +1,5 @@
+folder_path = /home/owl/Desktop/pyp/Creator/Students
+reader_threads = 2
+exec_threads = 5
+file_name_regex = pool-[\\d]-thread-[\\d]:[\\d]{4}-[\\d]{2}-[\\d]{2}:[\\d]+\.txt
+batch_size = 3
